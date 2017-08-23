@@ -1,0 +1,1 @@
+{"version":3,"sources":["../index.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,gBAAgB,EAAE,MAAO,sBAAsB,CAAC;AACzD,OAAO,EAAE,mBAAmB,EAAE,MAAO,yBAAyB,CAAC","file":"index.js","sourceRoot":"","sourcesContent":["export { CompoPlaceModule }  from './compo-place.module';\nexport { CompoPlaceComponent }  from './compo-place.component';\n"]}
